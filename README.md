@@ -1,0 +1,2 @@
+# RegexPython
+In this repository, you will find all my Regex exercises done to learn Regex. Regular expressions or commonly called as Regex or Regexp is technically a string (a combination of alphabets, numbers and special characters) of text which helps in extracting information from text by matching, searching and sorting. It can also be used to replace text, regex define a search pattern which is used for find and find and replace in string operations.
